@@ -19,10 +19,5 @@ Our main aim for this project is to develop a vehicle make and model recognition
 https://junkang0607.wixsite.com/my-site-8/vmmr-project
 
 ****
-
-## Related Documents:
-https://drive.google.com/drive/folders/1bd_RGYr0veRTr5iMGQEjXU00Tzl5gQIL?usp=sharing
-
-****
 ## Sample Video
 https://www.youtube.com/watch?v=0DSA4ztRtd0&list=TLGGJOz0bqFK0yAxMDAzMjAyMg&t=1s&ab_channel=JunKangWong
