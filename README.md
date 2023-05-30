@@ -1,4 +1,4 @@
-# Vehicle Make and Model Recognition System (VMMR)
+# Vehicle Make and Model Recognition System (VMMR) Using Deep Learning
 
 ![image](https://user-images.githubusercontent.com/88149192/157582532-ce1a41bd-397d-47fe-b375-542bac63f39e.png)
 
