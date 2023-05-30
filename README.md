@@ -10,6 +10,22 @@ Vehicle make and model recognition is one of the most popular research topics in
 <br>
 
 Our main aim for this project is to develop a vehicle make and model recognition system that leverages deep learning based object recognition through the labelling and annotation of image or video datasets of various popular vehicle makes and models in Malaysia. To achieve this, we will propose and develop a recognition system for vehicle make and model that utilises deep learning architectures. The deep learning architectures used are evaluated from various available architectures applicable to the project, and multiple architectures may be used simultaneously in order to achieve the optimal level of performance. We will also perform testing and analyse the results of the experimental system. Our model is catered for Malaysia car makes and models and can be incorporated into relevant software systems such as security systems. Such a system has a wide range of applications and is easily replicable, hence, sustainable profits can be generated through the selling of our softwares, models or findings to relevant fields.
+****
+## Project Team
+
+**Project Manager**
+- Wong Jun Kang
+
+**Technical Lead**
+- Chan Kah Hee
+
+**Quality Assurance**
+- Tan Weihan 
+
+**Software Developer**
+- Chan Kah hee
+- Tan Weihan
+- Wong Jun Kang
 
 ****
 ## GDrive
