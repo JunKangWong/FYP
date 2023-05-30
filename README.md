@@ -20,4 +20,4 @@ https://junkang0607.wixsite.com/my-site-8/vmmr-project
 
 ****
 ## Sample Video
-https://www.youtube.com/watch?v=0DSA4ztRtd0&list=TLGGJOz0bqFK0yAxMDAzMjAyMg&t=1s&ab_channel=JunKangWong
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0DSA4ztRtd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
