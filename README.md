@@ -33,12 +33,9 @@ Our main aim for this project is to develop a vehicle make and model recognition
 - VMMR Final Project Report
 - Summary Presentation Part 1
 - Project Design Report
+- etc.
 
-Link to Documents: [View Here](www.google.com)
-
-****
-## Webpage:
-https://junkang0607.wixsite.com/my-site-8/vmmr-project
+Link to Documents: [View Here]([www.google.com](https://drive.google.com/drive/folders/1bd_RGYr0veRTr5iMGQEjXU00Tzl5gQIL?usp=sharing))
 
 ****
 ## Sample Video
