@@ -22,7 +22,7 @@ Our main aim for this project is to develop a vehicle make and model recognition
 **Quality Assurance**
 - Tan Weihan 
 
-**Software Developer**
+**Software Developer/ Machine Learning Engineer**
 - Chan Kah hee
 - Tan Weihan
 - Wong Jun Kang
@@ -38,7 +38,7 @@ Our main aim for this project is to develop a vehicle make and model recognition
 Link to Documents: [View Here](https://drive.google.com/drive/folders/1bd_RGYr0veRTr5iMGQEjXU00Tzl5gQIL?usp=sharing)
 
 ****
-## Sample Video
+## Demo
 [VMMR Demo](https://www.youtube.com/watch?v=0DSA4ztRtd0&ab_channel=JunKangWong)
 
 ****
