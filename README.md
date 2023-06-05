@@ -35,7 +35,7 @@ Our main aim for this project is to develop a vehicle make and model recognition
 - Project Design Report
 - etc.
 
-Link to Documents: [View Here]([www.google.com](https://drive.google.com/drive/folders/1bd_RGYr0veRTr5iMGQEjXU00Tzl5gQIL?usp=sharing))
+Link to Documents: [View Here](https://drive.google.com/drive/folders/1bd_RGYr0veRTr5iMGQEjXU00Tzl5gQIL?usp=sharing)
 
 ****
 ## Sample Video
